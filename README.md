@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshknights
-- 👀 I’m interested in front end web development, including UI/UX design
-- 🌱 I’m currently learning JavaScript, HTML & CSS
-- 💞️ I’m looking to collaborate on any kind of website building project! I am pretty new to coding, so I would like to learn from more experienced coders.
+- 👀 I’m interested in software testing and QA engineering
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any kind of software-building project! I am pretty new to coding, so I would like to learn from more experienced coders.
 - 📫 How to reach me - drop me an email @ joshknights22@gmail.com
 
 <!---
